@@ -4,6 +4,10 @@
 *.obj
 *.elf
 
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
 
 # Libraries
 *.lib
